@@ -1,6 +1,6 @@
 # 🛡️ Hi, I'm Mohamed Salah  
 
-🚀 **Cybersecurity Student | Future Security Specialist**  
+🚀 **Cybersecurity Student | Future Cloud Security Specialist**  
 🔐 Currently studying **CompTIA Security+** & **CCNA (Cisco Certified Network Associate)**  
 📍 Based in **Malaysia**  
 
