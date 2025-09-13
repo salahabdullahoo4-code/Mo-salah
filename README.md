@@ -33,15 +33,8 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)  
-
----
-
 ## 🌐 Connect with Me
 - 📧 Email: [salahabdullahoo4@gmail.com](mailto:salahabdullahoo4@gmail.com)  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
 - 🌍 Portfolio/Blog: [Your Website](https://yourwebsite.com)  
 
 ---
